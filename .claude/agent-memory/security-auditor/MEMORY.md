@@ -1,0 +1,1 @@
+- [Auth & Registration Security State](project_auth_security.md) — plaintext passwords, localStorage session trust, updateProfile privilege escalation, fake token, employer role bypass

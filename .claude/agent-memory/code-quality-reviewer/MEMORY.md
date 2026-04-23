@@ -1,0 +1,2 @@
+- [Project Architecture: Employer CRUD Pattern](project_employer_crud_pattern.md) — postJob/updateJob/deleteJob are sync functions in JobContext; updateJob does NOT write to globalPostedJobs localStorage
+- [User Profile](user_profile.md) — user background and collaboration preferences
